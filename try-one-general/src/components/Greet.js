@@ -1,3 +1,4 @@
+// always import React !!!
 import React from 'react'
 
 //function Greet () 
@@ -16,3 +17,4 @@ export default Greet
 
 // Functional component 
 // Use this when you want a function (as much as posible) no 'this' keyword and no need to know the state of the component
+// You can use hooks if you want to know the state of the component, 
