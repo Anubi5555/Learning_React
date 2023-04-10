@@ -15,3 +15,9 @@ const Hello = () => {
 };
 
 export default Hello;
+
+
+// Class -> className
+// for -> htmlFor
+// onclick -> onClick
+// tabindex -> tabIndex
